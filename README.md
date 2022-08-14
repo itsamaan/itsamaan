@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itsamaan
 - 👀 I’m interested in computer
-- 🌱 I’m currently learning GitHub
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on projects
-- 📫 Email- beingamaan01@gmail.com
+- 📫 Email- itsmohdamaan@gmail.com
 
 <!---
 itsamaan/itsamaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
