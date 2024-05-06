@@ -44,7 +44,7 @@ Here are some of the projects I've worked on:
 
 ## Get in Touch
 
-- LinkedIn: [Ali Zain](https://linkedin.com/in/itsamaan)
+- LinkedIn: [Mohd Amaan](https://linkedin.com/in/itsamaan)
 - Email: itsmohdamaan@gmail.com
 
 
