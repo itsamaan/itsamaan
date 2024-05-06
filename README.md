@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 🎓 Bachelor of Technology in Computer Science and Engineering with a CGPA of 8.23.
 🌟 My Tech Stack:
-Java
-React
-JavaScript
-MongoDB
-Node.js
-MySQL
-Python
+Java , 
+React , 
+JavaScript , 
+MongoDB , 
+Node.js , 
+MySQL , 
+Python .
