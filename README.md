@@ -38,7 +38,7 @@ Here are some of the projects I've worked on:
 
 ### COVID-19 Updater Website
 - Description: A website that provides up-to-date COVID-19 statistics.
-- [GitHub Repo]([https://github.com/zain2201/Covid-updater](https://github.com/itsamaan/Covid-19_Update))
+- [GitHub Repo]([https://github.com/itsamaan/Covid-19_Update))
 - Technologies: HTML, CSS, JavaScript
 
 
