@@ -13,11 +13,11 @@ I'm a passionate software developer with interest in web development and a stron
 - 🌟 My Tech Stack:
 - Java
 - Python
-  - React
-  - JavaScript
-  - MongoDB
-  - Node.js
-  - MySQL
+- React
+ - JavaScript
+ - MongoDB
+ - Node.js
+ - MySQL
 
 ## Featured Projects
 
